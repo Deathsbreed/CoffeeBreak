@@ -25,7 +25,26 @@ public class CoffeeBreak {
 			return;
 		}
 		System.out.println("You chose compiler " + compiler);
-		
+	}
+
+	public void compileGCC() {
+
+	}
+
+	public void compileGXX() {
+
+	}
+
+	public void compileCLANGXX() {
+
+	}
+
+	public void compileJAVAC() {
+
+	}
+
+	public void compileANT() {
+
 	}
 
 	public static void main(String[] args) {
