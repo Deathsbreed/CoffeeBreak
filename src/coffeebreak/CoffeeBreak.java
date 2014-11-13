@@ -6,6 +6,8 @@ package coffeebreak;
  * @license GNU GPLv3
  * @year 2014
  * 
+ * Description: A program to quick get out of working for a few minutes.
+ * 
  */
 public class CoffeeBreak {
 	public static final String usage = "Usage: coffeebreak [compiler]";
